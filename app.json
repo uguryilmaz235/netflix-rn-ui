@@ -1,0 +1,18 @@
+{
+  "name": "netflix-ui",
+  "displayName": "netflix-ui",
+  "expo": {
+    "name": "netflix-ui",
+    "slug": "netflix-ui",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash2.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}

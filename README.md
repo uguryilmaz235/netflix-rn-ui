@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://github.com/uguryilmaz235/netflix-rn-ui/blob/master/assets/netflix-logo.png" width="150">
+  <img src="https://github.com/uguryilmaz235/netflix-rn-ui/blob/master/assets/logo.png" width="150">
 <br>
 <br>
 Netflix React Native
